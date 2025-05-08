@@ -38,6 +38,5 @@ To design and implement a wireless water tank level monitoring system using:
 - **NRF24L01** – Sends data wirelessly.
 
 
-
-![Arduino Setup]("C:\Users\soura\Pictures\Screenshots\Screenshot 2025-05-08 204017.png")
+![Screenshot 2025-05-08 204017](https://github.com/user-attachments/assets/dec49c52-63e6-43a8-9e79-7a2884ae5dcd)
 
