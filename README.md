@@ -35,4 +35,5 @@ To design and implement a wireless water tank level monitoring system using:
 ### Transmitter Side:
 - **Arduino Nano** – Controls the ultrasonic sensor and handles data transmission.  
 - **Ultrasonic Sensor (HC-SR04)** – Measures water level.  
-- **NRF24L01** – Sends data wirelessly.  
+- **NRF24L01** – Sends data wirelessly.
+- (images/image_1.jpg) 
