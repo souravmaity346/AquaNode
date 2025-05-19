@@ -93,6 +93,8 @@ https://github.com/user-attachments/assets/a19c02a9-bb45-4a62-a6a9-b72f0afa9e10
 - **Automation** – No manual motor control.
 - **Energy Efficient** – Saves electricity.
 - **Water Saving** – Prevents overflow.
+- 
+![Screenshot 2025-05-19 214817](https://github.com/user-attachments/assets/32fbb50a-288c-4925-be28-9396f9c6f82a)
 
 ---
 
